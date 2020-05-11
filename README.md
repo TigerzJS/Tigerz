@@ -2,7 +2,8 @@
 
 ZipCracker that bruteforces the password
 
-
+## Info
+If it doesn't show the password don't worry. It will be extracted anyway
 
 ### Prerequisites
 Python3
