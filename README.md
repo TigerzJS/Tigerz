@@ -3,7 +3,8 @@
 ZipCracker that bruteforces the password
 
 ## Info
-If it doesn't show the password don't worry. It will be extracted anyway
+If it doesn't show the password don't worry. It will be extracted anyway\
+The extracted files will be in the Tigerz folder
 
 ### Prerequisites
 Python3
