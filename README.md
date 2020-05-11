@@ -6,5 +6,5 @@ Install:
 $ git clone https://github.com/TigerzPy/ZipCracker
 
 Start: 
-cd ZipCracker
+cd Tigerz
 python3 Script.py
