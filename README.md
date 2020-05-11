@@ -1,10 +1,16 @@
-ZipCracker: 
-Brute forces a zip folder with python
-More Tools will be added
+# Tigerz
 
-Install: 
-$ git clone https://github.com/TigerzPy/ZipCracker
+ZipCracker that bruteforces the password
 
-Start: 
-cd Tigerz
-python3 Script.py
+
+
+### Prerequisites
+Python3
+### Installing
+$ git clone https://github.com/TigerzPy/Tigerz.git
+
+### Start
+$ cd Tigerz\
+$ python3 Script.py
+
+
