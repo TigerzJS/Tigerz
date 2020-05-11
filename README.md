@@ -1,10 +1,10 @@
-#ZipCracker
+ZipCracker
 Brute forces a zip folder with python
 More Tools will be added
 
-#Install
+Install
 $ git clone https://github.com/TigerzPy/ZipCracker
 
-#Start
+Start
 cd ZipCracker
 python3 Script.py
